@@ -1,0 +1,33 @@
+📘 دليل ربط ملفات robots.txt و sitemap.xml مع موقعك في GitHub Pages
+
+🔹 عنوان موقعك:
+https://nasimstore.github.io/Nasim-Store-/
+
+🔹 خطوات الربط:
+
+1️⃣ ادخل إلى مستودعك في GitHub: https://github.com/nasimstore/Nasim-Store-
+
+2️⃣ اضغط على زر "Upload files" في المجلد الرئيسي للموقع.
+
+3️⃣ ارفع الملفات التالية:
+   - robots.txt
+   - sitemap.xml
+
+4️⃣ بعد رفعها، تحقق من الروابط التالية:
+   - https://nasimstore.github.io/Nasim-Store-/robots.txt
+   - https://nasimstore.github.io/Nasim-Store-/sitemap.xml
+
+5️⃣ قم بإضافة موقعك إلى Google Search Console:
+   https://search.google.com/search-console/
+
+6️⃣ من داخل Search Console:
+   - اضغط على "ملف Sitemap"
+   - أضف: sitemap.xml
+
+✅ الآن جوجل سيتعرف على موقعك ويبدأ بفهرسته خلال أيام.
+
+🔧 ملاحظات:
+- تأكد أن ملف `robots.txt` يحتوي على السطر التالي:
+  Sitemap: https://nasimstore.github.io/Nasim-Store-/sitemap.xml
+
+- لا داعي لتعديل أي إعدادات في GitHub Pages، فقط تأكد من أن الملفات في الجذر.
