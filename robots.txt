@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nasimstore.github.io/Nasim-Store-/sitemap.xml
